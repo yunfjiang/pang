@@ -1,3 +1,3 @@
 # pang
 #Error on records of commit progress 
-# All Committed actually done by Yunfan Jiang
+#All commits actually done by Yunfan Jiang
