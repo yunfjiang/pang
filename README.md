@@ -1,3 +1,2 @@
 # pang
-#Error on records of commit progress  
-This is a independent IOS game app created by Yunfan Jiang
+This is a simple IOS game app created and contributed by Yunfan Jiang
